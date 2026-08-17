@@ -1,5 +1,5 @@
 # Cloud Platform Comparison
-# Cloud Platform Comparison
+
 
 ## Comparison Table
 
