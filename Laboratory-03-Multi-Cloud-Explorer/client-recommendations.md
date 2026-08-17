@@ -54,3 +54,14 @@ AWS is recommended because the company requires highly available infrastructure 
 - Amazon EC2 – for running scalable application servers
 - Elastic Load Balancing – for distributing traffic across application resources
 - Amazon RDS – for managing the company's relational database
+
+- ## Checkpoint 6 – Multi-Cloud Decision Matrix
+
+| Business Requirement | Recommended Platform | Justification |
+|---|---|---|
+| Startup Company | AWS | AWS provides a broad range of scalable services that allow startups to begin with smaller resources and expand as their business grows. |
+| Enterprise Organization | AWS | AWS offers a wide range of enterprise services, global infrastructure, security features, and scalability for large organizations. |
+| Microsoft Environment | Azure | Azure is the best choice because it integrates closely with Microsoft technologies such as Windows Server, Microsoft 365, and Microsoft Entra ID. |
+| AI / Machine Learning | GCP | GCP is a strong choice for AI and machine learning because it provides advanced AI services, high-performance computing, and data analytics capabilities. |
+| Kubernetes Deployment | GCP | GCP is well suited for Kubernetes deployments because it provides Google Kubernetes Engine (GKE), a managed Kubernetes service. |
+| Global Web Application | AWS | AWS provides extensive global infrastructure and scalable services that can support highly available web applications serving users around the world. |
