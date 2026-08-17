@@ -1,5 +1,5 @@
 # Client Recommendations
-# Client Recommendations
+
 
 ## Client A – Startup Company
 
